@@ -6,6 +6,7 @@ public class Main {
         Guitar guitar = new Guitar();
         guitar.tune();
         guitar.play();
+        guitar.getStringCount();
 
     }
 }
